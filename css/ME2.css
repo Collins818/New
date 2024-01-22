@@ -1,0 +1,10 @@
+body{background-color: darkslateblue}
+.OO{color: gold;padding-left: 200px;
+border: darkred solid 10px;}
+.TO{color: #EEEEEE;
+}
+body{cursor: pointer;}
+.dd:hover{color: darkred}
+.wordSpace60{word-spacing: 100px}
+.wordSpace60{color:white}
+.wordSpace60:hover{color: gold}

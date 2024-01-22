@@ -1,0 +1,25 @@
+body{background-color: black;}
+.gg{color: white}
+.dd{color: white}
+.gg{float: left;width: 50%}
+.dd{float: right; width: 50%}
+.gg{font-size:20px }
+.dd{font-size: 10px}
+iframe{float: left}
+iframe{font-size: small}
+iframe{-webkit-filter: grayscale(90%)}
+.ji:hover{color: firebrick}
+.fi:hover{color: firebrick}
+.di:hover{background-color: green}
+.fi{background-color: grey }
+.vv{background-color: grey}
+.nn{background-color: grey}
+.ji{background-color: grey}
+.di{background-color: grey}
+.hi{background-color: grey}
+.hi:hover{color: darkred}
+.vv:hover{color: darkred}
+.nn:hover{color: firebrick}
+.cc{float: inherit}
+.cc{color:white }
+.xx{color: white; background-image: url("jioni/images/angry-naruto.3840x2160.jpg") }

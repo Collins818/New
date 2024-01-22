@@ -1,0 +1,22 @@
+body{
+    background-color: darkgrey;
+    text-align:left;
+    /*padding:60px;*/
+    padding-left:60px;
+    padding-right: 60px;
+}
+p{ color: gold}
+.one{color: red;}
+.tow{background-color: royalblue;
+  border: gold solid 6px;
+  margin: 100px;
+  padding: 30px;
+  border-radius: 30px;
+    width: 50%;
+height: 50%}
+.me:hover{
+ color: green;
+    border-bottom: black solid 6px;
+}
+.me{color: darkred}
+#she{color: coral}
