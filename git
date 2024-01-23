@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "message"
+git remote add origin{press enter}
+git push
+git push --set-upstream origin master
